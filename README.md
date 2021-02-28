@@ -1,6 +1,8 @@
 # WorldBorderTester
 [![EasySpigotAPI](https://img.shields.io/badge/EasySpigotAPI-%E2%AC%85-4D4.svg)](https://github.com/sya-ri/EasySpigotAPI)
 
+`org.bukkit.WorldBorder` を使ってみたかっただけ。マイクラ固有のコマンドである `/worldborder` を使っても同じことができるので無駄。
+
 ## Gradle Task
 
 ### ktlintFormat
